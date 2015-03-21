@@ -11,14 +11,14 @@ see also: https://registry.hub.docker.com/_/mongo/
 
 - get [docker](https://docs.docker.com/installation/mac/) - currently version 1.5
 - git clone this directory
-- sh build.sh
+- ./build.sh
 
 # in your development session
 
-- sh run.sh
+- ./run.sh
 - $(boot2docker shellinit) 
 
-you can now connect to the mongo instance on port `boot2docker ip` on port 27017 (the default port).
+you can now connect to the mongo instance on the IP given by the command  `boot2docker ip` on port 27017 (the default port).
 
 
 
