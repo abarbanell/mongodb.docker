@@ -9,10 +9,8 @@ see also: https://registry.hub.docker.com/_/mongo/
 
 # Onetime setup
 
-```
-get [docker](https://docs.docker.com/installation/mac/) - currently version 1.5
-git clone this directory
-```
+- get [docker](https://docs.docker.com/installation/mac/) - currently version 1.5
+- git clone this directory
 
 # in your development session
 
