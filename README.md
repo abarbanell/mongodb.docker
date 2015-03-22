@@ -21,5 +21,8 @@ see also: https://registry.hub.docker.com/_/mongo/
 you can now connect to the mongo instance on the IP given by the command  `boot2docker ip` on port 27017 (the default port).
 
 
+# See also
+
+I have written a short post about this also on my [blog](http://blog.abarbanell.de/linux/2015/03/22/dockerizing-mongodb-on-macos/)
 
 
